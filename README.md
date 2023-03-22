@@ -5,3 +5,4 @@ html files must be save in folder titled "Templates"
 css file must be saved in a folder titled "static" and a folder within that titled "css"
 
 run python code for site and click hyperlink in output
+full file directory : https://github.com/sarinasaran/SheInnovates
